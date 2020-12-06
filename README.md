@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<head>
-    <title>tutorial to github</title>
+# tutorial to github
 
-</head>
-<body>
-    <h1>This is assignment from Introduction to IT tutorial 6</h1> 
-    <h2>What is github ?</h2>
-    <h2>Formly, github is a Distributed Version Control System (DVCS), for more deatils, please go to this link 
-    <h2> [github](https://github.com/hocchudong/git-github-for-sysadmin)
-   </h2>
-</body>
+##This is assignment from Introduction to IT tutorial 6
+
+###What is github ?
+ <img src="https://onedrive.live.com/?v=photos&cid=D701EBA52585A94F&id=D701EBA52585A94F%213819&parId=root&parQt=allmyphotos&o=OneUp">
