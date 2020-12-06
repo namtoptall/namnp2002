@@ -6,7 +6,7 @@
 <img src="https://www.howtogeek.com/wp-content/uploads/2017/09/1-github-explained.png">
    - Formly, github is a Distributed Version Control System (DVCS), which is considered sicial network for programmer, where they can simply upload files for group project. In    open source resonance, Github has become a potent element. Github is used, alongside Linkedin, as an alternative to your CV. Employers most frequently refer to the profile of Github to recognize the coding skills of the applicant.   
    
- ##### Instaling git and github:
+ #### Instaling git and github:
   - To install git and github, follow this link respectively (https://git-scm.com/downloads) and (https://desktop.github.com/)
    
  ##### Basic git commands:
