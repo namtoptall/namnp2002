@@ -15,8 +15,9 @@
   - All of them are introduced through this image.
    <img src="https://i.redd.it/g868kpt6sax41.jpg"> 
 
- #### How to resolve conflicts ?
- - In comparison with others software, git has it's own conflicts. Fortunately, github provides a page that show you how to adress the problem straightly **--->**(         https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github)
+ **How to resolve conflicts?** 
+ 
+ - In comparison with others software, git has it's own conflicts. Fortunately, github provides a page that show you how to adress the problem straightly >>>(         https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github)
  
  **Branching** 
  - The diagram below visualizes the overall aspect of git branch. By developing them in branches, it’s not only possible to work on both of them in parallel, but it also keeps the main master branch free from questionable code. 
@@ -27,7 +28,6 @@
  - *SO how does it works ?*
    ---->>>> <img src="https://elijahmanor.com/social/git-branch.png">
    
-   OK ae ?
-
+   OK?
    
 
